@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392325841443",
+    "project_id": "softbd-f7a56",
+    "storage_bucket": "softbd-f7a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392325841443:android:f54bb0d1a35be0e14e2796",
+        "android_client_info": {
+          "package_name": "com.example.test_hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392325841443-anlik1dtn3sdui2hglop71objaf47hpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCsRj16CXYbSjoEsoP3mt6kB9xbbbdJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392325841443-anlik1dtn3sdui2hglop71objaf47hpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
